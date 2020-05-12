@@ -4,6 +4,7 @@
 	"status": "published",
 	"translations": ["es", "us"],
 	"difficulty": "beginner",
+	"preview": "https://github.com/breatheco-de/exercise-family-tree-static-api/blob/master/preview.png?raw=true",
 	"technologies": ["flask", "python", "json", "serialization", "data-structures", "rest","api"],
 	"duration" : 8,
 	"description" : "Create an API to read from a family tree structure",
