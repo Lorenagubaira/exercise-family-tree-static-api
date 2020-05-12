@@ -1,0 +1,11 @@
+{
+	"title" : "Family Tree Static API with Flask",
+	"slug" : "family-tree-static-api",
+	"status": "published",
+	"translations": ["es", "us"],
+	"difficulty": "beginner",
+	"technologies": ["flask", "python", "json", "serialization", "data-structures", "rest","api"],
+	"duration" : 8,
+	"description" : "Create an API to read from a family tree structure",
+	"talents": []
+}
