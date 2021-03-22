@@ -2,6 +2,17 @@
 
 Based on the technologies/strategies we've learn build a static API that handles a family tree. You're free to use your own family information, you can use fake data too.
 
+## 🌱  How to start this project
+
+Do not clone this repository.
+
+1. The first step to start coding is cloning the [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) on your local computer or gitpod.
+
+a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/flask-rest-hello).
+b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
+
+💡 Important: Remember to create a new repository, update the remote, and upload the code to your new repository.
+
 ## 📝 Instructions
 
 Your API must have, at least, 7 members spread throughout 3 generations:
