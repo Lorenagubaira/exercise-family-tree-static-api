@@ -36,4 +36,4 @@ Es posible que desees dibujar (lápiz y papel) la estructura de árbol para tene
 
 Las referencias deben ser el número de identificación de los miembros.
 
-Crea tus estructuras de datos antes de crear los puntos finales o enpoints, use variables globales.
+Crea tus estructuras de datos antes de crear los puntos finales o endpoints, use variables globales.
