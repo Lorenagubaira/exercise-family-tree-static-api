@@ -6,11 +6,17 @@ Based on the technologies/strategies we've learn build a static API that handles
 
 Do not clone this repository.
 
-The first step to start coding is cloning the [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) on your local computer or gitpod.
+The first step to start coding is cloning the [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) or [nodejs boilerplate](https://github.com/4GeeksAcademy/expressjs-rest-hello) on your local computer or gitpod.
 
-a) If using Gitpod (recomended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/flask-rest-hello).
+a) If using Gitpod (recomended) you can clone the boilerplate by:
 
-b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
+- [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) 
+- [nodejs boilerplate](https://github.com/4GeeksAcademy/expressjs-rest-hello)
+
+b) If working locally type the following command from your command line: 
+
+- Python: `git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
+- Nodejs: `git clone https://github.com/4GeeksAcademy/expressjs-rest-hello`.
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
@@ -29,7 +35,7 @@ The family tree must be represented as an object tree structure, i.e.: each pers
 
 ### Technologies
 
-The API must be developed using **Flask** and each endpoint must return a *valid* **JSON** file.
+The API must be developed using **Flask** or **Expressjs** and each endpoint must return a *valid* **JSON** file.
 
 ### 💡 Hints
 
