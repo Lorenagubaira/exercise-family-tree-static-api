@@ -4,14 +4,19 @@ Basado en las tecnologías/estrategias que hemos aprendido, construye una API es
 
 ## 🌱  Cómo iniciar este proyecto
 
- No clones este repositorio. El primer paso para comenzar a codificar es clonar el [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) en tu compjutador local o con Gitpod.
+ No clones este repositorio. El primer paso para comenzar a codificar es clonar el [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) o [nodejs boilerplate](https://github.com/4GeeksAcademy/expressjs-rest-hello) en tu compjutador local o con Gitpod.
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/flask-rest-hello).
+a) Si usas Gitpod (recomendada) puedes clonar el boilerplate:
+
+- [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello)
+- [nodejs boilerplate](https://github.com/4GeeksAcademy/expressjs-rest-hello).
 
 b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
-```sh
-git clone  git clone https://github.com/4GeeksAcademy/flask-rest-hello
-```
+
+- Python: `git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
+- Nodejs: `git clone https://github.com/4GeeksAcademy/expressjs-rest-hello`.
+
+
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
 ## :memo: Instrucciones
@@ -28,7 +33,7 @@ El árbol genealógico debe representarse como un árbol de objetos estructurado
 
 ### Tecnologías
 
-La API se debe desarrollar utilizando **Flask** y cada punto final debe devolver un archivo *válido* **JSON**.
+La API se debe desarrollar utilizando **Flask** or **Expressjs** y cada punto final debe devolver un archivo *válido* **JSON**.
 
 ### Pista
 
