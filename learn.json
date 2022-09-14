@@ -8,5 +8,7 @@
 	"technologies": ["flask", "python", "json", "serialization", "data-structures", "rest","api"],
 	"duration" : 8,
 	"description" : "Create an API to read from a family tree structure",
-	"talents": []
+	"talents": [],
+    "autoPlay": false,
+    "projectType": "project"
 }
