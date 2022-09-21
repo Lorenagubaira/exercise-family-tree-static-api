@@ -1,5 +1,6 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Family Tree Static API
-
+<!-- hide -->
+Family Tree Static API
+<!-- endhide -->
 Based on the technologies/strategies we've learn build a static API that handles a family tree. You're free to use your own family information, you can use fake data too.
 
 ## 🌱  How to start this project
