@@ -1,6 +1,7 @@
 <!-- hide -->
-Family Tree Static API
+# Family Tree Static API
 <!-- endhide -->
+
 Based on the technologies/strategies we've learn build a static API that handles a family tree. You're free to use your own family information, you can use fake data too.
 
 ## 🌱  How to start this project
@@ -9,7 +10,7 @@ Do not clone this repository.
 
 The first step to start coding is cloning the [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) or [nodejs boilerplate](https://github.com/4GeeksAcademy/expressjs-rest-hello) on your local computer or gitpod.
 
-a) If using Gitpod (recomended) you can clone the boilerplate by:
+a) If using Gitpod (recommended) you can clone the boilerplate by:
 
 - [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) 
 - [nodejs boilerplate](https://github.com/4GeeksAcademy/expressjs-rest-hello)
@@ -42,7 +43,7 @@ The API must be developed using **Flask** or **Expressjs** and each endpoint mus
 
 You may want to draw (pen and paper) the tree structure to have a "visual" structure in mind. Use the lines to display the references between parents and children.
 
-The references should be the members' id number.
+The references should be the members' id numbers.
 
 Create your data structures before you create the endpoints, use global variables.
   

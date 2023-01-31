@@ -1,8 +1,10 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) API estática del árbol genealógico
+<!--hide-->
+# API estática del árbol genealógico
+<!--endhide-->
 
-Basado en las tecnologías/estrategias que hemos aprendido, construye una API estática que maneje un árbol familiar. Tu eres libre de usar tu propia información familiar, también puedes usar datos falsos.
+Basado en las tecnologías/estrategias que hemos aprendido, construye una API estática que maneje un árbol familiar. Tú eres libre de usar tu propia información familiar, también puedes usar datos falsos.
 
-## 🌱  Cómo iniciar este proyecto
+## 🌱 Cómo iniciar este proyecto
 
  No clones este repositorio. El primer paso para comenzar a codificar es clonar el [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) o [nodejs boilerplate](https://github.com/4GeeksAcademy/expressjs-rest-hello) en tu compjutador local o con Gitpod.
 
