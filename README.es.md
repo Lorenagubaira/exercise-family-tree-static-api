@@ -4,22 +4,28 @@
 
 Basado en las tecnologías/estrategias que hemos aprendido, construye una API estática que maneje un árbol familiar. Tú eres libre de usar tu propia información familiar, también puedes usar datos falsos.
 
+<onlyfor saas="false" withBanner="false">
+
 ## 🌱 Cómo iniciar este proyecto
 
- No clones este repositorio. El primer paso para comenzar a codificar es clonar el [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) o [nodejs boilerplate](https://github.com/4GeeksAcademy/expressjs-rest-hello) en tu compjutador local o con Gitpod.
+No clones este repositorio porque usaremos una plantilla diferente.  
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate:
+Recomendamos abrir el `python boilerplate` ó  `nodejs boilerplate`, utilizando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes [clonar el repositorio de GitHub](https://4geeks.com/how-to/github-clone-repository) en tu computadora local utilizando el comando `git clone`.  
 
-- [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello)
-- [nodejs boilerplate](https://github.com/4GeeksAcademy/expressjs-rest-hello).
+Estos son los repositorios que puedes abrir o clonar:  
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
+- Python:
+```sh
+$ git clone https://github.com/4GeeksAcademy/flask-rest-hello
+```
+- Nodejs:
+```sh
+$ git clone https://github.com/4GeeksAcademy/expressjs-rest-hello
+```
 
-- Python: `git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
-- Nodejs: `git clone https://github.com/4GeeksAcademy/expressjs-rest-hello`.
+💡 Importante: Recuerda crear un nuevo repositorio, actualizar el remoto (`git remote set-url origin <tu nueva url>`), y subir el código a tu nuevo repositorio utilizando `add`, `commit` y `push`.  
 
-
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+</onlyfor>
 
 ## :memo: Instrucciones
 

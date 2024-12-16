@@ -7,6 +7,7 @@
 	"preview": "https://github.com/breatheco-de/exercise-family-tree-static-api/blob/master/preview.png?raw=true",
 	"technologies": ["flask", "python", "json", "serialization", "data-structures", "rest","api"],
 	"duration" : 8,
+	"template_url": ["https://github.com/4GeeksAcademy/flask-rest-hello", "https://github.com/4GeeksAcademy/expressjs-rest-hello"],
 	"description" : "Create an API to read from a family tree structure",
 	"talents": [],
     "autoPlay": false,

@@ -4,23 +4,28 @@
 
 Based on the technologies/strategies we've learn build a static API that handles a family tree. You're free to use your own family information, you can use fake data too.
 
+<onlyfor saas="false" withBanner="false">
+
 ## 🌱  How to start this project
 
-Do not clone this repository.
+Do not clone this repository because we will use a different template.  
 
-The first step to start coding is cloning the [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) or [nodejs boilerplate](https://github.com/4GeeksAcademy/expressjs-rest-hello) on your local computer or gitpod.
+We recommend opening the `python boilerplate` or `nodejs boilerplate` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can [clone the GitHub repository](https://4geeks.com/how-to/github-clone-repository) on your local computer using the `git clone` command.  
 
-a) If using Gitpod (recommended) you can clone the boilerplate by:
+Here are the repositories you can open or clone:  
 
-- [python boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) 
-- [nodejs boilerplate](https://github.com/4GeeksAcademy/expressjs-rest-hello)
+- Python:  
+```sh  
+$ git clone https://github.com/4GeeksAcademy/flask-rest-hello  
+```  
+- Nodejs:  
+```sh  
+$ git clone https://github.com/4GeeksAcademy/expressjs-rest-hello  
+```  
 
-b) If working locally type the following command from your command line: 
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit`, and `push`.  
 
-- Python: `git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
-- Nodejs: `git clone https://github.com/4GeeksAcademy/expressjs-rest-hello`.
-
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+</onlyfor>
 
 ## 📝 Instructions
 
