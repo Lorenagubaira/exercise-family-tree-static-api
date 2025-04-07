@@ -4,7 +4,7 @@
 
 Based on the technologies/strategies we've learn build a static API that handles a family tree. You're free to use your own family information, you can use fake data too.
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
 
 ## 🌱  How to start this project
 
@@ -25,7 +25,7 @@ $ git clone https://github.com/4GeeksAcademy/expressjs-rest-hello
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit`, and `push`.  
 
-</onlyfor>
+</how-to-start>
 
 ## 📝 Instructions
 
