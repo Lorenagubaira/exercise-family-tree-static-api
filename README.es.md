@@ -4,7 +4,7 @@
 
 Basado en las tecnologías/estrategias que hemos aprendido, construye una API estática que maneje un árbol familiar. Tú eres libre de usar tu propia información familiar, también puedes usar datos falsos.
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
 
 ## 🌱 Cómo iniciar este proyecto
 
@@ -25,7 +25,7 @@ $ git clone https://github.com/4GeeksAcademy/expressjs-rest-hello
 
 💡 Importante: Recuerda crear un nuevo repositorio, actualizar el remoto (`git remote set-url origin <tu nueva url>`), y subir el código a tu nuevo repositorio utilizando `add`, `commit` y `push`.  
 
-</onlyfor>
+</how-to-start>
 
 ## :memo: Instrucciones
 
