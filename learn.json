@@ -1,5 +1,8 @@
 {
-	"title" : "Family Tree Static API with Flask",
+	"title" : {
+		"us": "Family Tree Static API with Flask",
+		"es": "API de árbol genealógico estático con Flask"
+	},
 	"slug" : "family-tree-static-api",
 	"status": "published",
 	"translations": ["es", "us"],
@@ -8,8 +11,14 @@
 	"technologies": ["flask", "python", "json", "serialization", "data-structures", "rest","api"],
 	"duration" : 8,
 	"template_url": ["https://github.com/4GeeksAcademy/flask-rest-hello", "https://github.com/4GeeksAcademy/expressjs-rest-hello"],
-	"description" : "Create an API to read from a family tree structure",
+	"description" : {
+		"us":"Create an API that reads from a family tree structure. Use Flask or Express to represent at least 7 members across 3 generations. Expose endpoints to view all members or a specific one with their parents and children. Learn how to structure family relationships in JSON!",
+		"es":"Crea una API que lea desde una estructura de árbol genealógico. Usa Flask o Express para representar al menos 7 miembros en 3 generaciones. Expón endpoints para ver todos los miembros o uno específico con sus padres e hijos. ¡Aprende a estructurar relaciones familiares en JSON!"
+    },
 	"talents": [],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+    "telemetry": {
+	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=186"
+	  }
 }
